@@ -1,0 +1,14 @@
+.list {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 5px;
+  width: 500px;
+}
+.oneProduct {
+  border: 1px solid black;
+}
+.img {
+  height: 300px;
+  width: 300px;
+}
